@@ -25,7 +25,7 @@ Screen shot is side public in screenshot folder.
 
 ### Link
 
-Demo:https://coder0898.github.io/frontend_mentor_social_profile/.
+Demo:https://frontend-mentor-social-profile-cyan.vercel.app/.
 
 ### Built with
 
