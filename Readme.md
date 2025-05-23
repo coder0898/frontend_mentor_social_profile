@@ -21,17 +21,7 @@ Your challenge is to build out this social links profile and get it looking as c
 
 ### Screenshot
 
-1. Desktop version:
-
-![alt text](image.png)
-
-2. Mobile version:
-
-![alt text](image-1.png)
-
-3. Hover state:
-
-![alt text](image-2.png)
+Screen shot is side public in screenshot folder.
 
 ### Link
 
